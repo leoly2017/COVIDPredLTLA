@@ -281,3 +281,7 @@ textarea {
         page-break-after: avoid;
     }
 }
+.app_main {
+}
+body .main_sec .app_main {
+}
