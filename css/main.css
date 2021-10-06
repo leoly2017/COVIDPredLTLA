@@ -61,7 +61,17 @@ img,
 svg,
 video {
     vertical-align: middle;
+    margin-left: 0px;
 }
+.second.img {
+    float: left;
+    padding-left: 25px;
+
+
+
+
+}
+
 
 /*
  * Remove default fieldset styles.
@@ -284,4 +294,6 @@ textarea {
 .app_main {
 }
 body .main_sec .app_main {
+}
+.second.img {
 }
